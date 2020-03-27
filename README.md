@@ -7,6 +7,12 @@ O objetivo é implementar um app onde podemos ver a lista de personagens da Marv
 - [ ] Além disso, o personagem poderá ser favoritado tanto na lista quanto na tela de detalhes. 
 - [ ] Os personagens favoritados devem ser persistidos no device para que possam ser acessados offline e serem mostrados em uma aba própria.
 
+Esse é um MVP do nosso projeto, porém ele irá crescer com o tempo, portanto, seria legal que as decisões tomadas fossem pensando no futuro desse aplicativo. ;)
+
+Apesar da pouca complexidade do projeto, não ignore fazer o desenvolvimento com boas práticas. 
+
+Estes critérios serão usados na nossa avaliação.
+
 Nos entregue quando estiver orgulhoso do que fez! =)
 
 ## API
@@ -30,24 +36,9 @@ A interface do app é dividida em 3 partes e deve ser desenvolvida conforme os p
 * Listagem dos personagens favoritados pelo usuário.
 * Interface de lista vazia, erro ou sem internet.
 
-## Requisitos Essenciais
-* Usar Swift 5
-* Tratamento para falha de conexão.
-* O teste não pode apresenter crash.
-* App universal, desenvolva uma interface que se adapte a telas maiores.
-
-## Bônus
-* Testes de interface
-* Testes unitários
-* Integração com alguma ferramenta de CI/CD
-* Integração com fastlane para cobertura de testes.
-* Slather
-
 ## Importante
 * Subir o desafio em um repositório no github/gitlab/bitbucket e mandar o link.
 * Não ter nenhuma mensão do Itaú/Iti no Repositório/Projeto.
 
 ## Observações
 * Você pode utilizar bibliotecas de terceiros e gerenciadores de dependências como preferir.
-* Foque o desenvolvimento nos requisitos essenciais. 
-* O bônus vai diferenciar você dos outros candidatos, mas os requisitos essenciais são mais importantes.
